@@ -1,3 +1,8 @@
 mkdir examenm5uf2
 cd examenm5uf2
 mkdir DOCS
+git add .
+git status
+git commit -m "Creacio de README y COPYLEFT"
+git remote add origin https://github.com/mbaeta8/examenm5uf2
+git push https://github.com/mbaeta8/examenm5uf2 master 
