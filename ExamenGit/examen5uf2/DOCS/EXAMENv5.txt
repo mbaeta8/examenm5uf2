@@ -1,0 +1,7 @@
+git add .
+git commit -m "Canvis Footer"
+git push url main
+------------------------------
+git add .
+git commit -m "Traduccio Footer"
+git push origin main
