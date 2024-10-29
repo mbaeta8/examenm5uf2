@@ -1,0 +1,3 @@
+mkdir examenm5uf2
+cd examenm5uf2
+mkdir DOCS
