@@ -4,4 +4,4 @@ cd DOCS/
 nano EXAMENv2.txt
 git add .
 git commit -m "versio 2 commit LICENSE EXAMENv2"
-git push https://github.com/mbaeta8/examenm5uf2 master
+git push origin main
