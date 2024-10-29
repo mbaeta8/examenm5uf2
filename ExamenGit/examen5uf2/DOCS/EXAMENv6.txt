@@ -1,0 +1,10 @@
+git branch mywork
+git checkout mywork
+git add .
+git commit -m "pàgina autor branch mywork"
+git push origin mywork
+-------------------------------------------
+git pull origin mywork
+git add .
+git commit -m "Nova imatge"
+git push url mywork
