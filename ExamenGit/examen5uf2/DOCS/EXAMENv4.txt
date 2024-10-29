@@ -1,0 +1,11 @@
+git branch p1 - Lo mismo para p2
+git checkout p1 o p2 
+git add .
+git commit -m "Canvis en l'index p1" - Lo mismo para p2
+git push url p1 - Lo mismo para p2
+git checkout main
+git merge p1 - Lo mismo para p2
+git branch -d p1 - Lo mismo para p2
+git add .
+git commit -m "Creacio fitxer Examenv4.txt"
+git push url main
